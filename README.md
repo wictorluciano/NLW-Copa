@@ -1,5 +1,5 @@
 #Calendário de Jogos - NLW Copa
-<h3>Calendário dos jogos que o Brasil irá participar na Copa do Mundo 2022 no Catar. :soccer:</h3>
+<h3>Calendário com os jogos que o Brasil irá participar na Copa do Mundo de 2022 no Catar. :soccer:</h3>
 
 <a href="https://wictorluciano.github.io/NLW-Copa/"><img src="./assets/imgs/readme.png" width="250px"></a>
 
