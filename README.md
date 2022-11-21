@@ -1,7 +1,7 @@
 #Calendário de Jogos - NLW Copa
 <h3>Paragrado</h3>
 
-<a href="https://wictorluciano.github.io/NLW-Copa/"><img src="./assets/imgs/readme" width="250px"></a>
+<a href="https://wictorluciano.github.io/NLW-Copa/"><img src="./assets/imgs/readme.png" width="250px"></a>
 
 [🔗 Click here to acess](https://wictorluciano.github.io/NLW-Copa/)
 
