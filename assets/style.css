@@ -30,11 +30,8 @@
   }
   
   body {
-    background-color: #121214;
-    background-image: var(--bg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
+    padding-bottom: 50px;
+    background: #121214 var(--bg) no-repeat top center/cover;
   }
   
   body * {
@@ -49,6 +46,7 @@
   
   header {
     margin-bottom: 63px;
+    text-align: center;
   }
 
   #cards {
