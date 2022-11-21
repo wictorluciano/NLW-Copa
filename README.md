@@ -9,7 +9,8 @@
 
 - HTML
 - CSS
-- JAVASCRIPT
+- Javascript
+- Git & GitHub
 
 ## ⭐ Contact
 
